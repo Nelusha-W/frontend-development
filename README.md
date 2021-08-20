@@ -613,6 +613,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 🌐[Icons 8](https://icons8.com/ouch)
 - 🌐[Manypixels](https://gallery.manypixels.co/)
 - 🌐[Undraw](https://undraw.co/illustrations)
+- 🌐[3D Bay](https://clouddevs.com/3dbay/)
 
 [👆 Back To Top](#table-of-contents)
 
